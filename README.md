@@ -1,5 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Zari+Tsu;Welcome+to+my+Github)
 
+Email Me: zaritsu030907@gmail.com
+
 我的个人博客：[https://z4r1tsu.github.io/](https://z4r1tsu.github.io/)
 
 我的BiliBili主页：[https://space.bilibili.com/527080131](https://space.bilibili.com/527080131)
