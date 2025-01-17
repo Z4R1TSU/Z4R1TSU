@@ -8,7 +8,7 @@
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Z4R1TSU)
 
-![](https://stats.justsong.cn/api/leetcode?username=herschel2j0&cn=true)
+![](https://stats.justsong.cn/api/leetcode?username=amazing-herschel2j0&cn=true)
 
 ![](https://stats.justsong.cn/api/bilibili/?id=527080131)
 
