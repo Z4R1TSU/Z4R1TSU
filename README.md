@@ -1,4 +1,4 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Zari+Tsu;Welcome+to+my+Github)
 
 ![](./profile-3d-contrib/profile-green.svg)
 
@@ -6,7 +6,7 @@
 
 ![](https://stats.justsong.cn/api/bilibili/?id=527080131)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z4R1TSU&count_private=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z4R1TSU&count_private=true)-->
 
 <!--
 **Z4R1TSU/Z4R1TSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
