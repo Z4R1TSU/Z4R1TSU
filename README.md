@@ -8,6 +8,8 @@
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Z4R1TSU)
 
+![](https://stats.justsong.cn/api/leetcode?username=amazing-herschel2j0&cn=true)
+
 <!--
 **Z4R1TSU/Z4R1TSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
