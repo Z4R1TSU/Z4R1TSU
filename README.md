@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z4R1TSU&count_private=true)
+![](./profile-3d-contrib/profile-green.svg)
 
 ![Metrics](/github-metrics.svg)
 
 ![](https://stats.justsong.cn/api/bilibili/?id=527080131)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z4R1TSU&count_private=true)
 
 <!--
 **Z4R1TSU/Z4R1TSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
