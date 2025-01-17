@@ -4,7 +4,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Z4R1TSU&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Z4R1TSU)
 
 <!--
 **Z4R1TSU/Z4R1TSU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
