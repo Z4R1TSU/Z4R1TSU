@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Zari+Tsu;Welcome+to+my+Github!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Zari+Tsu.;Welcome+to+my+Github!)
 
 Email Me：zaritsu030907@gmail.com
 
